@@ -1,0 +1,118 @@
+.container {border-radius: 1px;
+  position: relative;
+    text-align: center;
+  }
+.c1{filter: blur(3px);}
+.container1 { background-color: antiquewhite;
+    position: relative;
+      text-align: center;
+      padding: 20px;
+    }
+
+.centered { font-size: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 233, 136);
+ }
+.d{text-decoration:none;
+    background-image:linear-gradient(orange, rgb(111, 23, 200) ) ;
+    padding: 10px 20px;
+    border-radius: 30px;
+    color: rgb(8, 168, 248);
+    font-weight: 800;
+}
+.d1{text-decoration:none;
+  background-image:linear-gradient(rgb(244, 255, 93),rgb(255, 174, 0) ) ;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: rgb(255, 0, 0);
+  font-weight: 800;
+}
+.f1{
+  font-family: 'Lugrasimo', cursive;
+}
+.f2{
+  font-family: 'Open Sans', sans-serif;
+}
+.f3{font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(218, 245, 234);
+}
+.f4{font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(3, 73, 44);}
+.a1{align-self: auto;
+display: inline-flex;}
+
+.a2{ color: rgb(51, 51, 51);
+  font-family: 'Lugrasimo', cursive;
+  font-size: 30px; 
+  padding: 10px;
+ margin: 5px;
+ background-color: rgb(238, 245, 248);
+ border-radius: 20px;
+}
+.a3{background-color: bisque;
+color: brown;
+border: 1px solid brown;
+border-radius: 20px;}
+
+.input{size: 30px;
+  text-align: center;
+  background-color: rgb(225, 203, 246);
+  padding: 50px;
+}
+.a11{align-self: auto;
+  display: inline-flex;
+  padding:30px ;
+}
+
+.a22{ color: rgb(51, 51, 51);
+  font-size: 20px; 
+  padding: 20px;
+ margin: 30px;
+ background-color: rgb(238, 245, 248);
+ border-radius: 20px;
+}
+.align{
+  display: flex;
+  margin: 10px;
+}
+.half{
+  width: 50%;
+ padding: 2%;
+}
+.d2{text-decoration:none;
+  background-image:linear-gradient(rgb(255, 0, 195), rgb(228, 83, 165) ) ;
+  padding: 10px 20px;
+  border-radius: 3px;
+  color: rgb(0, 0, 0);
+  font-weight: 800;}
+  .e    {text-decoration:none;
+    background-image:linear-gradient(rgb(255, 0, 195), rgb(228, 83, 165) ) ;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+  }  
+  .u{
+    text-align:center;}
+.l{text-align: center;
+ margin:20px 200px;
+ padding: 50px 200px 50px 200px;
+background-color: rgb(255, 244, 222);}
+.d3{text-decoration:none;
+  background-color: rgba(255, 0, 149, 0.89);
+  padding: 10px 30px;color: rgb(100, 42, 0);
+ 
+  font-weight: 800;}
+  .d4{background-color: rgb(192, 192, 192);
+    padding: 10px 30px;
+   
+   font-weight: 1000;}
+   .foot{ text-align: center;
+    background-color: rgb(34, 33, 33);
+    padding: 5%;
+  }
